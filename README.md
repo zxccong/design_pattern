@@ -1,4 +1,5 @@
 # design_pattern
+<<<<<<< HEAD
 
 五大设计原则：(zxc.person.design_pattern.principle)
 
@@ -27,3 +28,6 @@ principle.demeter
 
 
 
+=======
+设计模式
+>>>>>>> 9bb59814aebaf03ae9eb5a81c8f08f5e1d6c1e0e
